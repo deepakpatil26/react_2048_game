@@ -4,7 +4,7 @@ An engaging version of the classic [2048 game](https://play2048.co/), built usin
 
 ## 🚀 Live Demo
 
-Play the game here: [**PLAY NOW**](https://deepakpatil26.github.io/_2048_game/)
+Play the game here: [**PLAY NOW**](https://deepakpatil26.github.io/react_2048_game/)
 
 ## 🛠️ Built With
 

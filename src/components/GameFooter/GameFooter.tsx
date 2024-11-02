@@ -37,7 +37,7 @@ const LearnMore = () => {
         <a href="https://play2048.co/">https://play2048.co/</a>. If you want to
         learn more about the project tech stack or see the code, visit the&nbsp;
         <a
-          href="https://github.com/grigorzyapkov/2048game"
+          href="https://github.com/deepakpatil26/react_2048_game"
           target="_blank"
           rel="noreferrer"
         >
