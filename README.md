@@ -1,41 +1,52 @@
-# Game 2048
+# 2048 Game
 
-This version of the 2048 game is insipired by the original https://play2048.co/.
+An engaging version of the classic [2048 game](https://play2048.co/), built using React and TypeScript. Enjoy the addictive number-merging fun, with a sleek and responsive design!
 
-## Build with
+## 🚀 Live Demo
 
-- [React.js](https://reactjs.org/)
-- [Typescript](https://www.typescriptlang.org/)
-- [Create React App](https://create-react-app.dev/)
+Play the game here: [**PLAY NOW**](https://deepakpatil26.github.io/_2048_game/)
 
-### Getting Started
+## 🛠️ Built With
 
-To get a local copy up and running follow these simple example steps:
+- **React.js** - A JavaScript library for building user interfaces.
+- **TypeScript** - Adds static typing to JavaScript for better code quality and maintainability.
+- **Create React App** - Bootstrapped with [Create React App](https://create-react-app.dev/) for easy setup.
 
-- Clone the repo
-  ```sh
-  git clone https://github.com/grigorzyapkov/2048game.git
-  ```
-- Install NPM packages
-  
-  
-* Install NPM packages
+## 🎮 How to Play
 
-* Install NPM packages
-  ```sh
-  yarn install
-  ```
+- **Desktop:** Use arrow keys to move the tiles.
+- **Mobile:** Swipe to slide tiles in the desired direction.
 
-- Run the app
-  ```sh
-  yarn start
-  ```
+When two tiles with the same number touch, they merge into one. A new tile (2 or 4) appears after each move at a random empty spot. The goal is to combine tiles and reach **2048** to win!
 
-### How to play
+## 📥 Getting Started
 
-You can play both on mobile and on desktop.
+To get a local copy up and running, follow these steps:
 
-Use your arrow keys on desktop (or swipe with your fingers for mobile) to move the numbers. The same numbers will be merged into one when they touch. After each move, a new number (2 or 4) is generated at a random empty position. Merge the numbers and build a 2048 number to WIN the game!
+1. **Clone the Repository**
 
-**[PLAY NOW](https://grigorzyapkov.github.io/2048game/)**
+```bash
+  git clone https://github.com/deepakpatil26/react_2048_game.git
+```
 
+2. **Install Dependencies**
+
+```bash
+
+yarn install
+```
+
+3. **Run the Application**
+
+```bash
+
+yarn start
+```
+
+Your app should now be running on http://localhost:3000.
+
+✨ Features
+
+- Responsive Design: Play on both mobile and desktop seamlessly.
+- Smooth Animations: Enjoy a visually pleasing and smooth experience.
+- Addictive Gameplay: Merge numbers and challenge yourself to reach the 2048 tile!
