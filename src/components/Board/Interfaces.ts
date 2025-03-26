@@ -1,4 +1,4 @@
-import { GameState, Tile } from "../interfaces";
+import { GameState, Tile } from '../interfaces';
 
 export interface BoardState {
   moves: Array<GameState>;
@@ -7,6 +7,6 @@ export interface BoardState {
 }
 
 export type BoardActionType =
-  | { type: "addMove"; payload: GameState }
-  | { type: "startMove" }
-  | { type: "endMove" };
+  | { type: 'addMove'; payload: GameState }
+  | { type: 'startMove' }
+  | { type: 'endMove' };

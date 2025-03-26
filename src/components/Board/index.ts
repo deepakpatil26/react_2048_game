@@ -1,1 +1,1 @@
-export { BoardContainer as default } from "./BoardContainer";
+export { BoardContainer as default } from './BoardContainer';

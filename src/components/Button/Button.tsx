@@ -1,6 +1,6 @@
-import React from "react";
+import React from 'react';
 
-import "./Button.scss";
+import './Button.scss';
 
 interface ButtonProps {
   id?: string;
@@ -15,9 +15,8 @@ export const Button = (props: ButtonProps) => {
   return (
     <button
       id={id}
-      className={`appButton ${className || ""}`}
-      onClick={onClick}
-    >
+      className={`appButton ${className || ''}`}
+      onClick={onClick}>
       {children}
     </button>
   );
